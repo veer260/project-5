@@ -1,0 +1,121 @@
+body{
+}
+.navbar{
+
+    background-color: black;
+    margin-top: -18px;
+    margin: -8px 40px 0px;
+    height: 60px;
+}
+
+.list-item{
+    color: white;
+    display: inline-block;
+    font-family: 'montserrat';
+    font-size: 0.7rem;
+    margin: 0 20px;
+    font-weight: 600;
+}
+
+.logo-image{
+    display: inline-block;
+    margin-top: 15px;
+}
+
+.logo{
+    display: inline-block;
+    width: 80px;
+    margin-left: 60px;
+}
+
+.grow-list{
+    display: inline-block;
+    margin-top: -20px;
+}
+
+.list{
+    margin-top: -15px;
+    position: relative;
+    bottom: 10px;
+}
+
+.line{
+    display: inline-block;
+    border-left: solid 1px white;
+    height: 34px;
+    width: 20px;
+    margin-left: 50px;
+}
+
+.button-small{
+    position: absolute;
+    right: 90px;
+    top: 17px;
+    width: 100px;
+    height: 28px;
+    background-color: #be39b8;
+    color: white;
+    border-radius: 6px;
+    font-size: 0.7rem;
+    font-family: 'montserrat';
+    font-weight: 600;
+}
+
+.fa-angle-down{
+    position: relative;
+    left: 5px;
+}
+
+
+
+
+/* banner-section */
+section{
+    /* text-align: center; */
+    /* width: 60; */
+}
+.background-image{
+    width: 1247px;
+    /* margin-left: -10px; */
+    position: absolute;
+    left: 48px;
+    margin: 0 auto;
+    z-index: -1;
+    height: 650px;
+}
+
+.hero{
+    width: 60%;
+    /* position: relative; */
+    margin: 0px auto;
+    text-align: center;
+}
+
+.hero-heading{
+    color: white;
+    font-family: 'montserrat';
+    font-size: 4rem;
+    margin-top: 100px;
+    margin-bottom: 4px;
+}
+
+.hero-description{
+    color: white;
+    font-family: 'montserrat';
+    margin-top: 0px;
+    margin-bottom: 30px;
+    font-weight: 500;
+    font-size: 1.2rem;
+}
+
+.button-large{
+    background-color: #be39b8;
+    color: white;
+    border-radius: 6px;
+    border: none;
+    font-family: 'montserrat';
+    padding: 14px 20px;
+    font-size: 1rem;
+    font-weight: 600;
+
+}
